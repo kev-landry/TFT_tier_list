@@ -1,9 +1,23 @@
-# 42
+# TeamFight Tactics Tier List
+
+This project aims to let people create their own TFT tier lists and more !
+The second purpose is to learn Vue and nativescript frameworks because why not, they sound fun right.
+
+* Create your own tier list
+* Create your best TFT setup
+* Share them easily
 
 ## Project setup
 ```
 npm install
 ```
+
+## Built With
+
+* Nativescript
+* Vue
+* Prettier
+* FireBase
 
 ### Compiles and hot-reloads for development
 ```
